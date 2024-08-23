@@ -1,0 +1,37 @@
+
+
+.section{
+    display: flex;
+    margin: 50px 100px;
+    gap: 50px;
+    justify-content: space-around;
+    
+}
+.section1{
+    width: 30%;
+}
+
+.section1 input{
+    padding: 10px;
+   
+}
+ .btn{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: goldenrod;
+     cursor: pointer;
+     margin-left: 30%;
+   }
+   .section2{
+    width: 40%;
+   }
+   fieldset{
+    box-shadow: 10px 10px 20px gray;
+    padding: 20px;
+    font-size: 20px;
+   }
+  h2{
+    text-align: center;
+    color: red;
+   
+  }

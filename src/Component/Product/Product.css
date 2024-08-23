@@ -1,0 +1,19 @@
+
+.product{
+    width: 70%;
+    margin-top: 20px;
+    box-shadow: 10px 10px 20px white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.646);
+    color: white;
+    font-size: 15px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: goldenrod;
+     cursor: pointer;
+  
+}
